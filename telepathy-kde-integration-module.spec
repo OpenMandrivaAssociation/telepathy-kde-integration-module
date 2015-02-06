@@ -2,7 +2,7 @@
 Summary:        Telepathy KDE Integration module
 Name:           telepathy-kde-integration-module
 Version:	0.5.1
-Release:        1
+Release:        2
 Url:            https://projects.kde.org/projects/playground/network/telepathy/telepathy-kded-module
 Source0:        ftp://ftp.gtlib.cc.gatech.edu/pub/kde/unstable/telepathy-kde/%version/src/%srcname-%version.tar.bz2
 License:        GPLv2+
