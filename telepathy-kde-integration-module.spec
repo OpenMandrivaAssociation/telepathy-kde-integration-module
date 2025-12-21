@@ -7,6 +7,7 @@ Url:            https://projects.kde.org/projects/playground/network/telepathy/t
 Source0:        ftp://ftp.gtlib.cc.gatech.edu/pub/kde/unstable/telepathy-kde/%version/src/%srcname-%version.tar.bz2
 License:        GPLv2+
 Group:          Networking/Instant messaging
+BuildRequires:	make
 BuildRequires:  telepathy-kde-common-internals-devel >= %{version}
 Requires:       telepathy-kde-common-internals-core
 
